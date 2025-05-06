@@ -2,8 +2,6 @@
 
 This project is a prototype developed as part of my Master's Thesis on the Capacitated Vehicle Routing Problem With Time Windows. The core functionality is implemented in the [solver.py](https://github.com/A-M-Amine/Vehicle-Routing-Optimizer/blob/main/api/optimizer/solver.py) script, which provides insight into the algorithmic approach used.
 
-## Current State Update (26/06/2024):
-
 Please note that the API itself was my first attempt at using the Django and Django Rest framework. Consequently, I cannot guarantee its stability or execution reliability at this stage. While I intend to revisit this project when time permits, I am unable to commit to a specific timeline.
 
 ## Overview
